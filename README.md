@@ -8,12 +8,16 @@
 
 ### AIM:
 To implement ARMA model in python student performance datset.
+
+
 ### ALGORITHM:
+```
 1.Prepare the Data: Extract a time series from the dataset. In this case, we can use FinalGrade as our time series.
 2.Check for Stationarity: Use statistical tests like the Augmented Dickey-Fuller test to check if the time series is stationary.
 3.Fit the ARMA Model: Use the statsmodels library to fit the ARMA model to the data.
 4.Plot the Results: Visualize the actual vs. predicted values.
 
+```
 ### PROGRAM:
 ```
 import pandas as pd
