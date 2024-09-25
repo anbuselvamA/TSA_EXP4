@@ -69,5 +69,5 @@ plt.show()
 ![Untitled](https://github.com/user-attachments/assets/39c5de37-c48e-4037-a744-5e9e41a27470)
 
 
-RESULT:
-Thus a python program is created to fir ARMA Model successfully.
+# RESULT:
+   Thus a python program is created to fir ARMA Model successfully.
